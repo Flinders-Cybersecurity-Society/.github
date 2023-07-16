@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, We're The Flinders University Cybersecurity Society</h1>
-<h3 align="center">Based in Adelaide, South Australia from [Flinders University](https://www.flinders.edu.au/)</h3>
+<h3 align="center">Based in Adelaide, South Australia from Flinders University</h3>
 
 - 🔭 Learn more about us at [flinderscybersociety.org](https://flinderscybersociety.org)
 
