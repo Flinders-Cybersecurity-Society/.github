@@ -1,12 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, We're The Flinders University Cybersecurity Society</h1>
+<h3 align="center">Based in Adelaide, South Australia from [Flinders University](https://www.flinders.edu.au/)</h3>
 
-<!--
+- 🔭 Learn more about us at [flinderscybersociety.org](https://flinderscybersociety.org)
 
-**Here are some ideas to get you started:**
+- 👨‍💻 Signup as a member at [flinderscybersociety.org/register](https://flinderscybersociety.org/register)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- 🤝 We're always looking for **Speakers for our workshops, members, volunteers**
+
+- 💬 Talk to us about **Anything Cyber Related**
+
+- 📫 How to reach me **cybersecurity.society@flinders.edu.au**
+
+<h3 align="left">Connect with us:</h3>
+<p align="left">
+<a href="https://twitter.com/flinderscysoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="flinderscysoc" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/flinders-cyber-society" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="flinders-cyber-society" height="30" width="40" /></a>
+<a href="https://fb.com/flinders-cybersecurity-society" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="flinders-cybersecurity-society" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@flinderscysoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@flinderscysoc" height="30" width="40" /></a>
+<a href="https://discord.gg/MdYXyTJPUK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MdYXyTJPUK" height="30" width="40" /></a>
+</p>
