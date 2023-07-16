@@ -9,7 +9,7 @@
 
 - 💬 Talk to us about **Anything Cyber Related**
 
-- 📫 How to reach me **cybersecurity.society@flinders.edu.au**
+- 📫 Get in contact at **cybersecurity.society@flinders.edu.au**
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
