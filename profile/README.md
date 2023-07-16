@@ -14,8 +14,8 @@
 <h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://twitter.com/flinderscysoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="flinderscysoc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/flinders-cyber-society" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="flinders-cyber-society" height="30" width="40" /></a>
-<a href="https://fb.com/flinders-cybersecurity-society" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="flinders-cybersecurity-society" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@flinderscysoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@flinderscysoc" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/flinders-cyber-society/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="flinders-cyber-society" height="30" width="40" /></a>
+<a href="https://www.facebook.com/people/Flinders-Cybersecurity-Society/100088272799075/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="flinders-cybersecurity-society" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@FlindersCySoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@flinderscysoc" height="30" width="40" /></a>
 <a href="https://discord.gg/MdYXyTJPUK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MdYXyTJPUK" height="30" width="40" /></a>
 </p>
